@@ -1,0 +1,32 @@
+.category {
+    display: inline-block;
+    background-color: #0076ff;
+    margin: 5px;
+    padding: 3px;
+    border: 5px;
+    border-radius: 3px;
+    text-align: center;
+    width: 250px;
+    align-self: baseline;
+}
+.element {
+    padding: 5px;
+    background-color: #21ff1c;
+    margin: 5px;
+    border-radius: 2px;
+
+}
+a {
+    text-decoration: none;
+    color: white;
+    border: solid;
+    border-color: #54b4ff;
+    background-color: blue;
+    border-radius: 2px;
+    margin: 2px;
+    padding: 1px;
+}
+a:hover {
+    background-color: #54b4ff;
+    color: white;
+}
